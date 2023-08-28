@@ -1,4 +1,4 @@
-# TabelaPecasMecanicas
+#TabelaPecasMecanicas
 
 CREATE TABLE pecas_mecanicas (
     id INT PRIMARY KEY,
